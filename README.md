@@ -10,7 +10,7 @@ Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, PHP e 
 
 💡 Estou sempre aprendendo, praticando e construindo projetos para evoluir como desenvolvedor.
 
-📫 Conecte-se comigo no [LinkedIn](COLOQUE_O_LINK_DO_SEU_PERFIL_AQUI).
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/samuel-gilvan-3a28612ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ---
 
